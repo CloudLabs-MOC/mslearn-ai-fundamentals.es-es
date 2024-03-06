@@ -1,8 +1,3 @@
----
-lab:
-  title: "Uso del reconocimiento del lenguaje conversacional con Language\_Studio"
----
-
 # Uso del reconocimiento del lenguaje conversacional con Language Studio
 
 Cada día, aumentan las expectativas de que los equipos puedan usar la inteligencia artificial para comprender comandos en lenguaje natural, ya sea escritos o hablados. Por ejemplo, es posible que desee que un sistema domótico controle los dispositivos de su casa mediante comandos de voz como "enciende la luz" o "enciende el ventilador". Los dispositivos con tecnología de inteligencia artificial pueden comprender estos comandos y actuar en consecuencia.
