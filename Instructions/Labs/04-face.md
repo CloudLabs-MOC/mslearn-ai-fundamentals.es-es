@@ -1,8 +1,3 @@
----
-lab:
-  title: "Detección de caras en Vision\_Studio"
----
-
 # Detección de caras en Vision Studio
 
 Las soluciones de visión suelen requerir inteligencia artificial para poder detectar caras humanas. Supongamos que la empresa minorista Northwind Traders quiere saber dónde están ubicados sus clientes dentro de una tienda para darles una mejor atención. Una manera de lograrlo es determinar si hay caras en las imágenes y, si es así, devolver las coordenadas del rectángulo de selección que muestran su ubicación.
