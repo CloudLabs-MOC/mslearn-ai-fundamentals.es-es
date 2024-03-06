@@ -1,8 +1,3 @@
----
-lab:
-  title: Exploración de un índice (UI) de Búsqueda de Azure AI
----
-
 # Exploración de un índice (UI) de Búsqueda de Azure AI
 
 Imaginemos que trabaja para Fourth Coffee, una cadena nacional dedicada al café. Le han pedido que ayude a crear una solución de minería de conocimientos que permita buscar fácilmente información sobre las experiencias de los clientes. Decide crear un índice de Búsqueda de Azure AI con datos extraídos de las opiniones de los clientes.  
