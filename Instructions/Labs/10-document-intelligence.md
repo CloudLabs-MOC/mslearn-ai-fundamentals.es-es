@@ -1,8 +1,3 @@
----
-lab:
-  title: Extracción de datos de formulario en Document Intelligence Studio
----
-
 # Extracción de datos de formulario en Document Intelligence Studio
 
 Documento de inteligencia de Azure AI puede analizar y extraer información de formularios y documentos y, a continuación, identificar los nombres de campo y los datos. 
