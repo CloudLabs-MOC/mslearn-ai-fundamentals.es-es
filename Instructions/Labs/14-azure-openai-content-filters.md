@@ -1,8 +1,3 @@
----
-lab:
-  title: Exploración de filtros de contenido en Azure OpenAI
----
-
 # Exploración de filtros de contenido en Azure OpenAI
 
 Azure OpenAI incluye filtros de contenido predeterminados para ayudar a garantizar que las solicitudes y finalizaciones potencialmente perjudiciales se identifiquen y quiten de las interacciones con el servicio. Además, se puede solicitar permiso para definir filtros de contenido personalizados para necesidades específicas y asegurarse de que las implementaciones del modelo apliquen las entidades de seguridad de IA responsables adecuadas para escenarios de IA generativa. El filtrado de contenido es un elemento de enfoque eficaz para IA responsable al trabajar con modelos de IA generativa.
