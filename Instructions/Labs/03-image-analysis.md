@@ -1,8 +1,3 @@
----
-lab:
-  title: Análisis de imágenes en Studio de Visión
----
-
 # Análisis de imágenes en Studio de Visión 
 
 **Visión de Azure AI** incluye numerosas funcionalidades para comprender el contexto y el contenido de imágenes y extraer información de las mismas. Studio de Visión de Azure AI permite probar muchas de las funcionalidades del análisis de imágenes. 
