@@ -1,8 +1,3 @@
----
-lab:
-  title: Explorar Servicios de Azure AI
----
-
 # Explorar Servicios de Azure AI
 
 Los servicios de Azure AI ayudan a los usuarios a crear aplicaciones de IA con API y modelos precompilados y personalizables. En este ejercicio, echará un vistazo a uno de los servicios de Content Safety Studio: Seguridad del contenido de Azure AI.
