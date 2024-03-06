@@ -1,15 +1,11 @@
 [
   {
-    "Name": "AI 900 AI Fundamentals-Module-02-Explore Automated Machine Learning in Azure ML",
-    "Language": "English",
+    "Name": "Explorar Servicios de Azure AI",
+    "Language": "Spanish",
     "Files": [
 	    {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-900-AIFundamentals/prod/instructions/0-GettingStarted.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/mslearn-ai-fundamentals.es-es/prod/Instructions/Labs/02-content-safety.md",
         "Order": 1
-      },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-900-AIFundamentals/prod/instructions/02-module-02.md",
-        "Order": 2
       }
     ]
   }

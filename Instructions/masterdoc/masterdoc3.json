@@ -1,1 +1,13 @@
-m
+[
+    {
+      "Name": "Análisis de imágenes en Studio de Visión ",
+      "Language": "Spanish",
+      "Files": [
+          {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/mslearn-ai-fundamentals.es-es/prod/Instructions/Labs/03-image-analysis.md",
+          "Order": 1
+        }
+      ]
+    }
+  ]
+  
