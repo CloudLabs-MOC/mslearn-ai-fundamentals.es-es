@@ -1,8 +1,3 @@
----
-lab:
-  title: Lectura de texto en Estudio de Visión
----
-
 # Lectura de texto en Estudio de Visión
 
 En este ejercicio, usará el servicio Azure AI para explorar las funcionalidades de reconocimiento óptico de caracteres de Visión de Azure AI. Usará Vision Studio para experimentar con la extracción de texto de imágenes, sin tener que escribir ningún código.
