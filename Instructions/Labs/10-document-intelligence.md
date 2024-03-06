@@ -34,9 +34,6 @@ Ahora está listo para analizar un recibo de la empresa minorista ficticia North
 1. Seleccione **Document Intelligence Studio** para volver a la página **Introducción a Document Intelligence Studio** y, en Recibos, seleccione **Probar**.
 1. En la lista desplegable Precompilado, asegúrese de que la opción **Recibos** está seleccionada.
 1. Seleccione **Buscar archivos** y vaya a la carpeta donde guardó la imagen. Seleccione la imagen del recibo y, a continuación **Abrir**. La imagen aparece en el lado izquierdo de la pantalla.
-
-    ![Recibo de Northwind.](media/document-intelligence/northwind-receipt.jpg)
-
 1. A la derecha, seleccione **Ejecutar análisis**.
 1. Cuando se ejecuta el análisis, se devuelven los resultados. Observe que el servicio ha reconocido campos de datos específicos, como el nombre del comerciante, la dirección, el número de teléfono y la fecha y hora de la transacción, así como las líneas de pedido, el subtotal, los impuestos y los importes totales. Junto a cada campo hay una probabilidad porcentual de que el campo sea correcto.
 

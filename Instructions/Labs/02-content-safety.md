@@ -14,8 +14,6 @@ Content Safety Studio permite explorar cómo se puede moderar el contenido de te
 
 1. Content Safety Studio está configurado para los servicios de Azure AI, como muchos otros estudios. En el menú de la parte superior de la pantalla, haga clic en el icono de la izquierda de *Azure AI*. Verá una lista desplegable de otros estudios diseñados para el desarrollo con servicios de Azure AI. Puede volver a hacer clic en el icono para ocultar la lista.
 
-![Captura de pantalla del menú de Content Safety Studio con una selección de alternancia abierta para cambiar a otros estudios.](./media/content-safety/studio-toggle-icon.png)  
-
 ## Asociación de un recurso a Studio 
 
 Antes de usar Studio, es necesario asociar un recurso de servicios de Azure AI con Studio. Dependiendo de Studio, se podría encontrar con que necesita un recurso de servicio único específico o podría usar un recurso general de varios servicios. En el caso de Content Safety Studio, se puede usar el servicio mediante la creación de un recurso de *Content Safety* de un solo servicio o un recurso general de varios servicios de *Servicios de Azure AI*. En los pasos siguientes, crearemos un recurso Content Safety de un solo servicio. 
