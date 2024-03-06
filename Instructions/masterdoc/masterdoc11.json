@@ -1,15 +1,11 @@
 [
   {
-    "Name": "AI 900 AI Fundamentals-module-01-Explore Cognitive Services",
-    "Language": "English",
+    "Name": "Exploración de un índice (UI) de Búsqueda de Azure AI",
+    "Language": "Spanish",
     "Files": [
-	    {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-900-AIFundamentals/prod/instructions/0-GettingStarted.md",
+        {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/mslearn-ai-fundamentals.es-es/prod/Instructions/Labs/11-ai-search.md",
         "Order": 1
-      },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-900-AIFundamentals/prod/instructions/01-module-01.md",
-        "Order": 2
       }
     ]
   }
