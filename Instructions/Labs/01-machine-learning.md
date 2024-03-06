@@ -1,8 +1,3 @@
----
-lab:
-  title: Explore el aprendizaje automático automatizado en Azure Machine Learning
----
-
 # Explore el aprendizaje automático automatizado en Azure Machine Learning
 
 En este ejercicio, usará la característica de aprendizaje automático automatizado en Azure Machine Learning para entrenar y evaluar un modelo de aprendizaje automático. Después, implementará y probará el modelo entrenado.
