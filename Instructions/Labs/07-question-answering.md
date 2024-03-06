@@ -1,8 +1,3 @@
----
-lab:
-  title: Uso de respuesta a preguntas con Language Studio
----
-
 # Uso del modelo de respuesta a preguntas con Language Studio
 
 En este ejercicio, usará Language Studio para crear y entrenar una knowledge base de preguntas y respuestas que usará un bot de servicios al cliente. El contenido de la knowledge base provendrá de una página de preguntas más frecuentes existente del sitio web de Margie’s Travel, una agencia ficticia de viajes. Después, usará Language Studio para ver cómo funcionaría cuando lo usen los clientes.
