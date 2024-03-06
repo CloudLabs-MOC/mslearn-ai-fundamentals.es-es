@@ -1,7 +1,3 @@
----
-lab:
-  title: "Exploración de la inteligencia artificial generativa con Microsoft\_Copilot"
----
 # Exploración de la inteligencia artificial generativa con Microsoft Copilot
 
 En este ejercicio, explorará la inteligencia artificial generativa con Microsoft Copilot. 

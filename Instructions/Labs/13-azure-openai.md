@@ -1,8 +1,3 @@
----
-lab:
-  title: Exploración de Azure OpenAI Service
----
-
 # Exploración de Azure OpenAI
 
 Azure OpenAI Service proporciona los modelos de inteligencia artificial generativa desarrollados por OpenAI para la plataforma Azure, lo que permite desarrollar eficaces soluciones de inteligencia artificial que se benefician de seguridad, escalabilidad e integración de los servicios que proporciona la plataforma en la nube Azure.

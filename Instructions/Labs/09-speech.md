@@ -1,8 +1,3 @@
----
-lab:
-  title: Explorar Speech Studio
----
-
 # Explorar Speech Studio
 
 El servicio **Voz de Azure AI** transcribe la voz en texto y el texto en voz audible. Puede usar Voz de IA para crear una aplicación que transcriba notas de reuniones o genere texto a partir de la grabación de entrevistas.
