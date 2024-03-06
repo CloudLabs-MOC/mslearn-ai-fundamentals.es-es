@@ -1,8 +1,3 @@
----
-lab:
-  title: Análisis de texto con Language Studio
----
-
 # Análisis de texto con Language Studio
 
 En este ejercicio explorará las funcionalidades del lenguaje de Azure AI mediante el análisis de algunas reseñas de hoteles de ejemplo. Usará Language Studio para comprender si las reseñas son principalmente positivas o negativas.
